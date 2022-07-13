@@ -1,0 +1,131 @@
+
+[
+        {
+          "_id": 1,
+          "img": "https://rukminim1.flixcart.com/image/580/696/kwzap3k0/jacket/h/w/y/m-1-no-67024206-puma-original-imag9j9y2aseycjk.jpeg?q=50",
+          "heading": "Full Sleeve colorblack...",
+          "price": {
+            "ourPrice": "₹7,000",
+            "originalPrice": "₹1,06,990"
+          },
+         
+          "size": "L",
+          "brand": "adidas",
+          "assured":
+            "https://static-assets-web.flixcart.com/www/linchpin/fk-cp-zion/img/fa_62673a.png"
+        },
+        
+        {
+          "_id": 2,
+          "img": "https://rukminim1.flixcart.com/image/580/696/krwec280/jacket/a/h/i/xl-mnt-7025-montrez-original-imag5hb93udpfs4q.jpeg?q=50",
+          "heading": "Mens graphic casual...",
+          "price": {
+            "ourPrice": "₹16,990",
+            "originalPrice": "₹1,06,990"
+          },
+         
+          "size": "L",
+          "brand": "arrow",
+          
+          "assured":
+            "https://static-assets-web.flixcart.com/www/linchpin/fk-cp-zion/img/fa_62673a.png"
+        },
+        
+        {
+          "_id": 3,
+          "img": "https://rukminim1.flixcart.com/image/580/696/l15bxjk0/jacket/3/z/k/s-no-mnt-7007-montrez-original-imagcs3dfrwkwwsx.jpeg?q=50",
+          "heading": "Ms graphic || Ful...",
+          "price": {
+            "ourPrice": "₹990",
+            "originalPrice": "₹1,06,990"
+          },
+         
+          "size": "L",
+          "brand": "blackberrys",
+         
+          "assured":
+            "https://static-assets-web.flixcart.com/www/linchpin/fk-cp-zion/img/fa_62673a.png"
+        },
+        
+        {
+          "_id": 4,
+          "img": "https://rukminim1.flixcart.com/image/580/696/kwzap3k0/jacket/p/k/c/m-1-no-84777463-puma-original-imag9j9yhfzxshjb.jpeg?q=50",
+          "heading": "Full sleve solid col...",
+          "price": {
+            "ourPrice": "₹26,990",
+            "originalPrice": "₹1,06,990"
+          },
+         
+          "size": "M",
+     
+          "brand": "adidas",
+         
+          "assured":
+            "https://static-assets-web.flixcart.com/www/linchpin/fk-cp-zion/img/fa_62673a.png"
+        },
+        
+        {
+          "_id": 5,
+          "img": "https://rukminim1.flixcart.com/image/580/696/krwec280/jacket/x/i/g/s-mnt-7018-montrez-original-imag5hb97jjpzsvh.jpeg?q=50",
+          "heading": "India sweat | Full...",
+          "price": {
+            "ourPrice": "₹5,590",
+            "originalPrice": "₹1,06,990"
+          },
+         
+          "size": "S",
+          "brand": "adidas",
+          
+          "assured":
+            "https://static-assets-web.flixcart.com/www/linchpin/fk-cp-zion/img/fa_62673a.png"
+        },
+        
+        {
+          "_id": 6,
+          "img": "https://rukminim1.flixcart.com/image/580/696/kflftzk0/jacket/s/9/6/l-4923944-hrx-by-hrithik-roshan-original-imafwyyfg7hrpzj6.jpeg?q=50",
+          "heading": "Full sleve solid Men's...",
+          "price": {
+            "ourPrice": "₹2,990",
+            "originalPrice": "₹1,06,990"
+          },
+         
+          "size": "XL",
+          "brand": "arrow",
+          "assured": "https://static-assets-web.flixcart.com/www/linchpin/fk-cp-zion/img/fa_62673a.png"
+         
+        },
+        
+        {
+          "_id": 7,
+          "img": "https://rukminim1.flixcart.com/image/580/696/kr58yvk0/jacket/x/r/t/xxl-fc6064-fastcolors-original-imag4ztaxk5qhnj8.jpeg?q=50",
+          "heading": "Allover printed Men's...",
+          "price": {
+            "ourPrice": "₹10,990",
+            "originalPrice": "₹1,06,990"
+          },
+         
+          "size": "XL",
+          "brand": "adidas",
+          
+          "assured":
+            "https://static-assets-web.flixcart.com/www/linchpin/fk-cp-zion/img/fa_62673a.png"
+        },
+        
+        {
+          "_id": 8,
+          "img": "https://rukminim1.flixcart.com/image/580/696/k4lmv0w0/jacket/g/f/f/xxl-hljk000338-highlander-original-imafnh87zzu3gf6f.jpeg?q=50",
+          "heading": "Full sleve solid...",
+          "price": {
+            "ourPrice": "₹8,900",
+            "originalPrice": "₹1,06,990"
+          },
+         
+          "size": "L",
+          "brand": "adidas",
+         
+          "assured":
+            "https://static-assets-web.flixcart.com/www/linchpin/fk-cp-zion/img/fa_62673a.png"
+        }
+      ]
+    
+    

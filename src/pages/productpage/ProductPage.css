@@ -1,0 +1,9 @@
+.productpage-container {
+    display: flex;
+}
+
+.products-wrapper>ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4rem
+}
